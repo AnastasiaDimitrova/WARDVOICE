@@ -95,5 +95,4 @@ WardVoice scores "worse" than the council survey on reliability because its vote
 - Live integration with council systems, e-mail or push notifications
 - Any election or party-political voting
   
-![Insert your Context Diagram Here](file:///Users/anastasia/Desktop/context%20diagram.png)
-file:///Users/anastasia/Desktop/context%20diagram.png
+![Insert your Context Diagram Here](context-diagram.png)
