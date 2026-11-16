@@ -71,7 +71,7 @@
 | Non-functional | Aggregated data only – no individual votes visible. |
 | Issues | Will officers need their own role, or share the councillor login? |
  
-*Use-case diagram:* actors Resident, Councillor, Council officer; bubbles UC1–UC5 (UC2 and UC3 «include» UC1). Draw it in Astah and add it as an image: `![Use-case diagram](images/use-case-diagram.png)`
+*Use-case diagram:* ![Insert your use diagram](use case diagram.png)
  
 ---
  
